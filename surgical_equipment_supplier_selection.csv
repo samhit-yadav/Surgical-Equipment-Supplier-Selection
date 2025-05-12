@@ -1,0 +1,101 @@
+Supplier,Product,Cost per Unit (INR),Quality (1-10),Delivery Time (Days),Reliability (1-10),Flexibility (1-10),Regulatory Compliance (1-10),Sterility Standards (1-10),After-Sales Support (1-10)
+MedSupply_1,Scalpels,2555,5,2,6,8,8,8,9
+MedSupply_2,Scalpels,1776,5,5,8,5,9,9,6
+MedSupply_3,Surgical Scissors,3266,7,4,8,6,9,7,5
+MedSupply_4,Needle Holders,802,7,5,9,7,9,8,8
+MedSupply_5,Needle Holders,1138,5,5,9,5,9,8,8
+MedSupply_6,Retractors,555,9,5,7,6,7,9,7
+MedSupply_7,Scalpels,1025,8,5,8,5,8,8,8
+MedSupply_8,Scalpels,4623,8,6,6,8,9,8,9
+MedSupply_9,Forceps,2625,6,6,9,6,7,9,9
+MedSupply_10,Retractors,3787,9,3,6,5,9,6,7
+MedSupply_11,Forceps,864,7,2,6,5,8,9,9
+MedSupply_12,Forceps,2146,5,5,8,7,7,6,6
+MedSupply_13,Forceps,1418,6,3,8,5,8,7,7
+MedSupply_14,Surgical Scissors,3297,8,2,9,6,8,6,6
+MedSupply_15,Surgical Scissors,2031,7,4,8,6,7,6,5
+MedSupply_16,Forceps,3845,7,6,8,7,7,7,6
+MedSupply_17,Retractors,2406,5,2,8,6,7,6,5
+MedSupply_18,Scalpels,3586,8,4,6,8,7,9,5
+MedSupply_19,Retractors,2575,9,2,9,6,7,6,6
+MedSupply_20,Needle Holders,1213,7,6,7,6,7,7,7
+MedSupply_21,Surgical Scissors,1562,5,6,6,5,7,9,9
+MedSupply_22,Scalpels,2476,9,3,8,5,9,7,9
+MedSupply_23,Scalpels,1796,8,5,6,6,8,7,5
+MedSupply_24,Needle Holders,625,7,2,8,7,7,8,5
+MedSupply_25,Needle Holders,4096,9,2,8,5,9,8,7
+MedSupply_26,Forceps,3783,9,4,6,7,9,7,8
+MedSupply_27,Surgical Scissors,2103,9,6,9,6,9,7,6
+MedSupply_28,Surgical Scissors,566,7,2,8,6,8,7,5
+MedSupply_29,Retractors,732,7,6,9,8,7,8,9
+MedSupply_30,Forceps,2656,6,2,7,5,9,8,7
+MedSupply_31,Forceps,1669,8,3,8,6,8,6,6
+MedSupply_32,Forceps,2658,5,5,9,8,8,6,7
+MedSupply_33,Forceps,4706,9,2,9,5,8,7,6
+MedSupply_34,Surgical Scissors,1993,6,6,7,6,9,9,6
+MedSupply_35,Surgical Scissors,4507,5,3,9,6,7,9,5
+MedSupply_36,Forceps,2972,6,2,9,5,9,8,7
+MedSupply_37,Retractors,3160,7,4,7,5,9,8,7
+MedSupply_38,Scalpels,3239,9,5,8,5,7,8,9
+MedSupply_39,Scalpels,2261,5,2,9,6,7,7,9
+MedSupply_40,Retractors,4014,5,3,9,6,7,9,5
+MedSupply_41,Forceps,2475,5,4,9,8,8,6,5
+MedSupply_42,Surgical Scissors,2862,5,3,6,7,7,7,8
+MedSupply_43,Scalpels,1376,5,3,7,5,9,6,9
+MedSupply_44,Needle Holders,4312,6,4,6,6,7,6,6
+MedSupply_45,Needle Holders,3948,9,3,7,6,9,7,7
+MedSupply_46,Retractors,1812,7,4,8,5,8,6,5
+MedSupply_47,Forceps,1960,7,2,8,7,9,9,7
+MedSupply_48,Scalpels,3209,7,4,9,5,9,6,7
+MedSupply_49,Forceps,2824,7,4,7,7,7,9,8
+MedSupply_50,Scalpels,2233,6,5,8,6,7,9,9
+MedSupply_51,Retractors,2105,8,4,7,7,9,9,5
+MedSupply_52,Retractors,3063,9,4,8,8,7,8,7
+MedSupply_53,Needle Holders,3921,5,2,6,6,8,6,5
+MedSupply_54,Forceps,4017,8,5,8,8,8,7,6
+MedSupply_55,Needle Holders,2897,7,6,6,5,7,7,8
+MedSupply_56,Forceps,4235,8,2,8,5,8,6,6
+MedSupply_57,Needle Holders,3370,9,2,9,5,7,8,5
+MedSupply_58,Surgical Scissors,1660,5,6,6,7,9,8,5
+MedSupply_59,Surgical Scissors,742,5,4,8,6,9,9,9
+MedSupply_60,Surgical Scissors,3090,9,3,9,5,8,6,7
+MedSupply_61,Surgical Scissors,1563,9,5,6,5,7,6,7
+MedSupply_62,Scalpels,4824,7,3,9,6,7,7,6
+MedSupply_63,Surgical Scissors,3095,5,6,7,5,8,6,8
+MedSupply_64,Retractors,1419,8,2,7,8,9,8,7
+MedSupply_65,Retractors,505,6,2,6,6,8,6,9
+MedSupply_66,Scalpels,967,6,5,8,6,9,7,6
+MedSupply_67,Surgical Scissors,4670,9,2,6,6,7,9,6
+MedSupply_68,Surgical Scissors,503,7,2,9,8,9,7,9
+MedSupply_69,Surgical Scissors,1145,6,5,8,6,8,7,8
+MedSupply_70,Needle Holders,617,5,5,7,8,7,9,9
+MedSupply_71,Forceps,3428,9,6,8,6,8,7,8
+MedSupply_72,Needle Holders,3051,8,2,7,7,8,7,9
+MedSupply_73,Forceps,4789,9,2,8,5,9,6,9
+MedSupply_74,Surgical Scissors,1346,8,6,8,7,8,6,5
+MedSupply_75,Surgical Scissors,3262,9,4,8,5,9,9,6
+MedSupply_76,Needle Holders,1641,9,4,9,8,7,6,9
+MedSupply_77,Needle Holders,2310,9,4,9,7,9,6,9
+MedSupply_78,Forceps,1223,8,6,6,6,7,7,7
+MedSupply_79,Retractors,724,8,2,6,5,9,8,6
+MedSupply_80,Forceps,4708,9,6,7,5,8,6,7
+MedSupply_81,Needle Holders,2548,6,6,9,7,9,8,6
+MedSupply_82,Needle Holders,4915,7,4,7,8,9,6,7
+MedSupply_83,Scalpels,2073,7,3,6,7,7,6,9
+MedSupply_84,Needle Holders,2328,7,2,7,8,8,9,9
+MedSupply_85,Scalpels,2417,8,4,6,8,9,9,5
+MedSupply_86,Retractors,4734,8,3,9,5,8,9,7
+MedSupply_87,Forceps,2526,6,3,8,7,9,8,8
+MedSupply_88,Forceps,4244,7,5,9,7,9,7,5
+MedSupply_89,Scalpels,1401,7,2,7,8,8,6,7
+MedSupply_90,Forceps,2539,9,3,7,7,9,6,7
+MedSupply_91,Needle Holders,509,8,4,9,6,8,6,5
+MedSupply_92,Surgical Scissors,760,7,5,9,6,9,8,9
+MedSupply_93,Scalpels,2173,6,2,6,7,7,9,7
+MedSupply_94,Forceps,2719,6,6,7,7,8,7,9
+MedSupply_95,Scalpels,2560,7,4,7,8,9,8,5
+MedSupply_96,Scalpels,4213,8,3,9,6,9,9,9
+MedSupply_97,Surgical Scissors,2119,6,3,8,6,7,8,6
+MedSupply_98,Needle Holders,820,9,4,7,5,8,7,8
+MedSupply_99,Scalpels,1842,6,3,8,8,9,9,7
+MedSupply_100,Forceps,2876,5,5,9,5,7,8,8
